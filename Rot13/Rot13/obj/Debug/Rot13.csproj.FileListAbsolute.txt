@@ -1,0 +1,9 @@
+D:\coredev\Homework\Rot13\Rot13\Rot13\Rot13\bin\Rot13.dll.config
+D:\coredev\Homework\Rot13\Rot13\Rot13\Rot13\bin\Rot13.dll
+D:\coredev\Homework\Rot13\Rot13\Rot13\Rot13\bin\Rot13.pdb
+D:\coredev\Homework\Rot13\Rot13\Rot13\Rot13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\coredev\Homework\Rot13\Rot13\Rot13\Rot13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\coredev\Homework\Rot13\Rot13\Rot13\Rot13\obj\Debug\Rot13.csprojResolveAssemblyReference.cache
+D:\coredev\Homework\Rot13\Rot13\Rot13\Rot13\obj\Debug\Rot13.csproj.CoreCompileInputs.cache
+D:\coredev\Homework\Rot13\Rot13\Rot13\Rot13\obj\Debug\Rot13.dll
+D:\coredev\Homework\Rot13\Rot13\Rot13\Rot13\obj\Debug\Rot13.pdb
